@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- 👋 Hi, I'm Wiktor<br>- 🚀 I'm FiveM & Web Developer<br>- 🌐 Long-term goal: Network Engineer <br>- ⚡Designs website visualizations</p>
+<p align="left">- 🩷 Hi, I'm Wiktor<br>- 🤍 I have 17 years<br>- 🩷 I'm FiveM & Web Developer<br>- 🤍 Long-term goal: Network Engineer <br>- 🩷 Cycling enthusiast</p>
 
 ###
 
-<h3 align="center">🎈 Languages and tools</h3>
+<h3 align="center">📨 Languages and tools</h3>
 
 ###
 
