@@ -24,3 +24,5 @@
     <img src="https://media.discordapp.net/attachments/977673745340694578/1213153642241327175/mysql-original-wordmark.256x133.png?ex=65f4705f&is=65e1fb5f&hm=bd7021bd1424942ab340954b1985e41c06d32636dca6154be462224cbd85228b&=&format=webp&quality=lossless" alt="" height="32" width="42">
     <img src="https://media.discordapp.net/attachments/977673745340694578/1213151120625762334/photoshop.png?ex=65f46e06&is=65e1f906&hm=5ab4085c106ad047fe7dc4f0f5e8e0e33fbf9fddd54854823f7103ec6ca9f1da&=&format=webp&quality=lossless" alt="" height="32" width="32">
 </p>
+
+###
