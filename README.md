@@ -15,7 +15,9 @@
 ###
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/977673745340694578/1213151120877424650/html5.226x256.png?ex=65f46e06&is=65e1f906&hm=4cd7f7624089ec92ae740a4769c85bb5e5acf655595e34ddf4effe5d62447741&=&format=webp&quality=lossless" alt="" height="36" width="36">
+  <a href="https://www.w3schools.com" target="__blank">
+    <img src="https://media.discordapp.net/attachments/977673745340694578/1213151120877424650/html5.226x256.png?ex=65f46e06&is=65e1f906&hm=4cd7f7624089ec92ae740a4769c85bb5e5acf655595e34ddf4effe5d62447741&=&format=webp&quality=lossless" alt="" height="36" width="36">
+  <a/>
 <img src="https://media.discordapp.net/attachments/977673745340694578/1213151121170898974/css3-plain.225x256.png?ex=65f46e06&is=65e1f906&hm=b25e8f255c672eb419bebb654f62a1e1391ffe4a669a9b98e9f177ea6a4c1060&=&format=webp&quality=lossless" alt="" height="36" width="36">
 <img src="https://media.discordapp.net/attachments/977673745340694578/1213151122173333525/javascript-js.256x256.png?ex=65f46e06&is=65e1f906&hm=a380daf21e6d3b199a4ff01e875c935a0c9a542ed6ae10ebfe22ff169347e26a&=&format=webp&quality=lossless" alt="" height="36" width="36">
 <img src="https://media.discordapp.net/attachments/977673745340694578/1213151122416468029/file-type-lua.256x256.png?ex=65f46e06&is=65e1f906&hm=d27be6392f665c50b29c2573a991d7baf525cf108682824f215263a5551e351d&=&format=webp&quality=lossless" alt="" height="36" width="36">
